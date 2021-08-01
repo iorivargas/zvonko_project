@@ -1,24 +1,27 @@
 <?xml version = "1.0" encoding = "UTF-8"?>
 <Clientes>
     <Arrendatarios>
-        <nombre>1</nombre>
-        <Apellidos></Apellidos>
+        <I>1</I>
+        <Nombre>Hector</Nombre>
+        <Apellidos>Hernandez Hernandez</Apellidos>
+        <Rut></Rut>
+        <Tiempo>6 meses</Tiempo>
+        <Monto>1,500 USD</Monto>
+        <Direccion></Direccion>
+    </Arrendatarios>
+    <Arrendatarios>
+        <I>2</I>
+        <Nombre>Pedro</Nombre>
+        <Apellidos>Fuentes Vazquez</Apellidos>
         <Rut></Rut>
         <Tiempo></Tiempo>
         <Monto></Monto>
         <Direccion></Direccion>
     </Arrendatarios>
-        <Arrendatarios>
-        <Nombre>3</Nombre>
-        <Apellidos></Apellidos>
-        <Rut></Rut>
-        <Tiempo></Tiempo>
-        <Monto></Monto>
-        <Direccion></Direccion>
-    </Arrendatarios>
-        <Arrendatarios>
-        <Nombre>2</Nombre>
-        <Apellidos></Apellidos>
+    <Arrendatarios>
+        <I>3</I>
+        <Nombre>Daniel</Nombre>
+        <Apellidos>Corral Hernandez</Apellidos>
         <Rut></Rut>
         <Tiempo></Tiempo>
         <Monto></Monto>
