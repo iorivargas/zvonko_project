@@ -1,0 +1,27 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<Clientes>
+    <Arrendatarios>
+        <nombre>1</nombre>
+        <Apellidos></Apellidos>
+        <Rut></Rut>
+        <Tiempo></Tiempo>
+        <Monto></Monto>
+        <Direccion></Direccion>
+    </Arrendatarios>
+        <Arrendatarios>
+        <Nombre>3</Nombre>
+        <Apellidos></Apellidos>
+        <Rut></Rut>
+        <Tiempo></Tiempo>
+        <Monto></Monto>
+        <Direccion></Direccion>
+    </Arrendatarios>
+        <Arrendatarios>
+        <Nombre>2</Nombre>
+        <Apellidos></Apellidos>
+        <Rut></Rut>
+        <Tiempo></Tiempo>
+        <Monto></Monto>
+        <Direccion></Direccion>
+    </Arrendatarios>
+</Clientes>
